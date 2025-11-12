@@ -1,11 +1,36 @@
 <h1 align="center">Hi 👋, I'm Jatin Prajapati</h1>
 <h3 align="center">💻Code is temporary — reasoning is forever.</h3>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinprajapati7869&label=Profile%20views&color=0e75b6&style=flat" alt="jatinprajapati7869" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jatinprajapati7869&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatinprajapati7869" alt="jatinprajapati7869" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/moon666786" target="blank"><img src="https://img.shields.io/twitter/follow/moon666786?logo=twitter&style=for-the-badge" alt="moon666786" /></a> </p>
+---
+
+<!-- ====== Socials ====== -->
+<p align="center">
+  <a href="https://twitter.com/moon666786" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/twitter/follow/moon666786?logo=twitter&style=for-the-badge" alt="twitter" />
+  </a>
+  <a href="https://linkedin.com/in/jatin-prajapati-8840a0257" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-Jatin%20Prajapati-0A66C2?style=for-the-badge&logo=linkedin" alt="linkedin" />
+  </a>
+  <a href="https://leetcode.com/jatinprajapati7869" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LeetCode-profile-FFA116?style=for-the-badge&logo=leetcode" alt="leetcode" />
+  </a>
+  <a href="mailto:jatinprajapati7869@gmail.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Email-jatinprajapati7869%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="email" />
+  </a>
+  <a href="https://discord.gg/rusy66778" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord" alt="discord" />
+  </a>
+</p>
+
+---
+
+
+
 
 - 🔭 I’m currently working on [Pandas](https://github.com/pandas-dev/pandas)
 
@@ -20,6 +45,7 @@
 - 📫 How to reach me **jatinprajapati7869@gmail.com**
 
 - ⚡ Fun fact **⚡ Currently under Roxy mentorship (spiritually, of course 💙).**
+   <p align="center"><em>🌊 Water calm. Mind precise. Strategy always.</em></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,4 +88,6 @@
        height="180"
   />
 </div>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatinprajapati7869" alt="jatinprajapati7869" /></a> </p>
 
