@@ -105,6 +105,6 @@
 ###
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="AI Working" />
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" alt="Tech" />
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="AI Working](https://github.com/Jatinprajapati7869/Jatinprajapati7869/blob/main/Love%20You%20GIF%20-%20Find%20&%20Share%20on%20GIPHY.gif?raw=true)" />
+  <img src="[https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" alt="Tech](https://github.com/Jatinprajapati7869/Jatinprajapati7869/blob/main/Anime%20Aesthetic%20GIF%20-%20Anime%20Aesthetic%20Study%20-%20Descubre%20y%20comparte%20GIF.gif?raw=true)" />
 </p>
