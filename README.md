@@ -33,7 +33,7 @@
 
 
 
-- 🔭 I’m currently working on [Pandas](https://github.com/pandas-dev/pandas)
+- 🔭 I’m currently working on Pytorch
 
 - 🌱 I’m currently learning **Next.js , Django , Cython , PyArrow**
 
