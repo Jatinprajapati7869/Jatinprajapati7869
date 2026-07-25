@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:hanxingzi862@gmail.com">
+  <a href="mailto:jatinprajapati7869@gmail.com">
     <img src="https://img.shields.io/badge/Email-hanxingzi862%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/jatin-prajapati-8840a0257">
