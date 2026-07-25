@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:jatinprajapati7869@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hanxingzi862%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-jatinprajapati7869%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/jatin-prajapati-8840a0257">
     <img src="https://img.shields.io/badge/LinkedIn-Jatin%20Prajapati-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
