@@ -22,50 +22,6 @@ I build practical AI systems - from model training to API to user interface. My 
 
 Currently studying at **IIT Madras** and interning at **Vicharshala, IIT Ropar** on weather-agriculture impact analysis.
 
-## Pinned Projects
-
-### 🔍 [DeepFakeDetector](https://github.com/Jatinprajapati7869/DeepFakeDetector-AI-Image-Authenticity-Checker)
-
-AI image authenticity checker with EfficientNet-B4 + Grad-CAM explainability.
-
-- **Stack**: FastAPI, React/TypeScript, PyTorch, Docker, GitHub Actions CI
-- **Signal**: End-to-end ML pipeline - model inference, REST API, frontend, tests, evaluation docs
-
-### 🖐 [GestureBoard](https://github.com/Jatinprajapati7869/Gesture-Board)
-
-Control presentations with hand gestures via MediaPipe computer vision.
-
-- **Stack**: React 19, TypeScript, MediaPipe, Zustand, Vite, Vitest
-- **Signal**: 63 passing tests, client-side ML inference, gesture recognition engine
-
-### 🛣 [StreetSense](https://github.com/Jatinprajapati7869/StreetSense)
-
-Road damage detection system using YOLOv8 for municipal infrastructure monitoring.
-
-- **Stack**: YOLOv8, Python, Gradio, Folium geospatial mapping
-- **Signal**: Edge-inference CV architecture, severity scoring, geospatial dashboard
-
-### 🇯🇵 [Substrata](https://github.com/Jatinprajapati7869/Substrata)
-
-Japanese reading assistant - paste text, tap any word, get JLPT level + reading + meaning.
-
-- **Stack**: React 19, TypeScript, Vite, Tailwind CSS, Framer Motion
-- **Signal**: Solo-built product with Japanese NLP integration
-
-### 📓 [AiraNote](https://github.com/Jatinprajapati7869/AiraNote)
-
-Daily reflection journal with mood tracking and 1% improvement loops.
-
-- **Stack**: Next.js 16, Supabase, Prisma, Tiptap, Vitest
-- **Signal**: Full-stack app with auth, database, rich text editor, CI
-
-### 📊 [GitPulse](https://github.com/Jatinprajapati7869/GitPulse)
-
-Windows 11 desktop widget displaying GitHub contribution graphs.
-
-- **Stack**: React, Tauri (Rust), Vite, GraphQL API
-- **Signal**: Desktop app with Rust backend, filesystem caching, multi-source data fetching
-
 ## Technical Stack
 
 <p align="center">
@@ -94,16 +50,16 @@ Every pinned project follows professional standards:
 
 ## Current Focus
 
-- 🔬 LLM applications with retrieval-augmented generation and evaluation
-- 👁 Computer vision systems for real-world deployment
-- 🇯🇵 Japanese language + engineering career in Japan
-- 📊 Building evaluation frameworks for ML model transparency
+-  LLM applications with retrieval-augmented generation and evaluation
+-  Computer vision systems for real-world deployment
+-  Japanese language + engineering career in Japan
+-  Building evaluation frameworks for ML model transparency
 
 ## Proof of Work
 
 - **IIT Madras** BS Data Science - programming, ML, and data science
 - **Vicharshala, IIT Ropar** - weather and agriculture impact analysis
-- **80+ LeetCode** problems solved - **AtCoder 512** rating
+- **150+ LeetCode** problems solved - **AtCoder 979** rating
 - Built 6+ production-quality AI/data projects from concept to deployment
 
 ## GitHub Snapshot
