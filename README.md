@@ -57,8 +57,6 @@ Every pinned project follows professional standards:
 
 ## Proof of Work
 
-- **IIT Madras** BS Data Science - programming, ML, and data science
-- **Vicharshala, IIT Ropar** - weather and agriculture impact analysis
 - **150+ LeetCode** problems solved - **AtCoder 979** rating
 - Built 6+ production-quality AI/data projects from concept to deployment
 
