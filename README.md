@@ -1,7 +1,7 @@
 <h1 align="center">Jatin Prajapati</h1>
 
 <p align="center">
-  <strong>AI/ML Engineer</strong> · <strong>BS @ IIT Madras</strong> · <strong>Summer Intern @ Vicharshala, IIT Ropar</strong>
+  <strong>AI/ML Engineer</strong>
 </p>
 
 <p align="center">
