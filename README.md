@@ -57,7 +57,7 @@ Every pinned project follows professional standards:
 
 ## Proof of Work
 
-- **150+ LeetCode** problems solved - **AtCoder 979** rating
+- **150+ LeetCode** problems solved - **AtCoder 979** rating , **Codeforces** **1253** rating
 - Built 6+ production-quality AI/data projects from concept to deployment
 
 ## GitHub Snapshot
